@@ -47,3 +47,8 @@ size\_t mode\_t 와 기본 데이터 타입의 차이점은
 | 부호 유무 | 명시적 선택 필요                   | `size_t`: 항상 unsigned<br>`mode_t`: 보통 unsigned |
 | 사용 예시 | 정수 연산, 카운팅 등                | 메모리 크기, 파일 권한 등 구체적 의미                         |
 
+![Image](https://github.com/user-attachments/assets/387f37cf-9f21-44af-96d4-8000d0ce1467)
+
+
+- 확장자 말고 다른 정보로 파일의 종류를 구분할 수 잇니
+-- 매직 넘
