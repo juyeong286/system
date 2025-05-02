@@ -1,5 +1,5 @@
 # 0502
-- 시스템프로그랴망 050607
+- 시스템프로그랴망 05
 ![Image](https://github.com/user-attachments/assets/a6a42ccd-3687-48e8-9eed-4df3f42e618f)
 
 | 라이브러리 함수   | 내부 시스템 호출         | 설명                           |
