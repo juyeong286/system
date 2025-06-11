@@ -1,5 +1,5 @@
 # 0502
-- 시스템프로그랴망 05
+- 시스템프로그래밍 05
 ![Image](https://github.com/user-attachments/assets/a6a42ccd-3687-48e8-9eed-4df3f42e618f)
 
 | 라이브러리 함수   | 내부 시스템 호출         | 설명                           |
@@ -49,6 +49,3 @@ size\_t mode\_t 와 기본 데이터 타입의 차이점은
 
 ![Image](https://github.com/user-attachments/assets/387f37cf-9f21-44af-96d4-8000d0ce1467)
 
-
-- 확장자 말고 다른 정보로 파일의 종류를 구분할 수 잇니
--- 매직 넘
