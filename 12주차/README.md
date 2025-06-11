@@ -24,6 +24,8 @@ if (pid == 0) {
     // 부모 프로세스 실행 코드
 }
 
+```
+
 ![image](https://github.com/user-attachments/assets/2b9f0cf2-cbcd-4ba5-ad19-93a26fac2d38)
 
 ## fork1.c
