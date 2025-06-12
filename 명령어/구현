@@ -1,5 +1,7 @@
 ## 명령어 [ls] - 디렉토리 목록 출력
 
+```bash
+
 #include <stdio.h>
 #include <dirent.h>
 
@@ -17,3 +19,4 @@ int main() {
     }
     return 0;
 }
+```
