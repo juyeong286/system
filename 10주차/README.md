@@ -1,6 +1,5 @@
 # 0509
--실제 명령어 구현 연습 자기가 만든 명령어 발표 50개 암기 안해도되고 구현하고 소스코드 설명할수 잇어야함 챗지피티 주석 정확하
-(수업시작)
+
 ![Image](https://github.com/user-attachments/assets/1219ff22-c8eb-455b-abc1-a6781b90f78b)
 
  #define MAX 24
